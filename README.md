@@ -1,8 +1,11 @@
-# React + Vite
+# Estilização de Componentes React- Space App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Captura de tela do Space App](/public/icones/print-space-app.png)
 
-Currently, two official plugins are available:
+Neste projeto trabalhamos com desenvolvimento React, dessa vez utilizamos o vite para criar a base da aplicação, por ser mais recomendado que o creat react app. Nele desenvolvemos uma galeria de fotos, onde aplicamos as seguintes funcionalidades para o site:
+* Filtrar por tag;
+* Filtrar por texto;
+* Favoritar e desfavoritar imagem;
+* Expandir imagem
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Além disso, neste projeto trabalhamos bastante com o Styled Components, onde usamos o CSS-in-JS para conseguirmos estilizar os componentes dentro do proprio arquivo JSX, sem a necessidade de criar um arquivo CSS para estilizar o componente. 
